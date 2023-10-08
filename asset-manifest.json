@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontedarqui/static/css/main.a1d3242d.css",
+    "main.js": "/frontedarqui/static/js/main.c28a206c.js",
+    "static/js/787.06257c7c.chunk.js": "/frontedarqui/static/js/787.06257c7c.chunk.js",
+    "index.html": "/frontedarqui/index.html",
+    "main.a1d3242d.css.map": "/frontedarqui/static/css/main.a1d3242d.css.map",
+    "main.c28a206c.js.map": "/frontedarqui/static/js/main.c28a206c.js.map",
+    "787.06257c7c.chunk.js.map": "/frontedarqui/static/js/787.06257c7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1d3242d.css",
+    "static/js/main.c28a206c.js"
+  ]
+}
