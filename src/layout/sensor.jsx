@@ -9,7 +9,7 @@ export function Main(){
     </section>
     {
       data?.map(datas => <section className="flex w-80 " key={datas?.idsensor}>
-        <div className="w-40  text-4xl font-light border-r-2 mx-3 border-indigo-500  " >{datas?.idsensor}</div>
+        <div className="w-40  text-4xl font-light  mx-3  " >{datas?.idsensor}</div>
         <div className="w-40 text-4xl font-light ">{datas?.valor}</div>
       </section >)
     }

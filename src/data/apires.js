@@ -1,7 +1,7 @@
 
 import { useEffect, useState } from "react";
 const url = 'https://aqui2.azurewebsites.net/all'
-const url2 = 'http://localhost:8081/all'
+
 
 function useFetch(){
   const [data, setData] = useState(null)
@@ -10,7 +10,7 @@ function useFetch(){
   
   async function getData() {
     try {
-        let response = await fetch (`${url2}`);
+        let response = await fetch (`${url}`);
       
       
       if (response.status ===200) {
